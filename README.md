@@ -22,3 +22,6 @@ Here are some predictions made by the model:
 
 
 ![Prediction 2](ss4.png)
+
+## Link for the MNIST Dataset
+https://www.kaggle.com/datasets/oddrationale/mnist-in-csv
