@@ -14,8 +14,8 @@ Accuracy: ~88% (improving)
 
 Here are some predictions made by the model:
 
-![Prediction 0](desktop/ss1.png)
+![Prediction 0](NN1/ss1.png)
 
-![Prediction 1](desktop/ss3.png)
+![Prediction 1](NN1/ss3.png)
 
-![Prediction 2](desktop/ss4.png)
+![Prediction 2](NN1/ss4.png)
