@@ -10,12 +10,15 @@
 
 Accuracy: ~88% (improving)
 
+## training 
+![Training 0](ss1.png)
+
+
 ## 📊 Sample Predictions
 
 Here are some predictions made by the model:
 
-![Prediction 0](ss1.png)
-
 ![Prediction 1](ss3.png)
+
 
 ![Prediction 2](ss4.png)
